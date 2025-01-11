@@ -1,5 +1,5 @@
 # ScreenShoter
-background program to catch periodically entire monitor image
+background service to catch periodically entire desktop image
 =============================================================
 The utility takes a snapshot of all connected screens.
 Usage:
